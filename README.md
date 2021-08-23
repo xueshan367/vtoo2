@@ -1,4 +1,4 @@
-## 一键部署 V2Ray 到 Heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+## 一键部署 V2Ray 到 Heroku  [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://github.com/xueshan367/vtoo2)
 
 > 1. 部署时VMess协议的`UUID`默认`91cb66ba-a373-43a0-8169-33d4eeaeb857`,`alterId`为`64`。
 
